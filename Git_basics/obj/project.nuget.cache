@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qjimUjlPdnR1ieA3ybdFpbYa9Jo6Hm2FzGgjDtxqmbig/DKEixZ3z2qOvdyOpMXeOtSbnr5Zdx+etm0FzNiudA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harre\\Desktop\\Q2 Repos\\Git_basics\\Git_basics\\Git_basics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
