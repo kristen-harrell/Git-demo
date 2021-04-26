@@ -6,8 +6,8 @@ namespace Git_basics
 {
     class Pets
     {
-        public string Name { get; set; }
-        public int PetId { get; set; }
-        public string Species { get; set; }
+        public string FirstName { get; set; }
+        public int AnimalId { get; set; }
+        public string PetSpecies { get; set; }
     }
 }
