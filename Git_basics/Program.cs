@@ -6,7 +6,7 @@ namespace Git_basics
     {
         static void Main(string[] args)
         {
-            Console.Write("MERGE CONFLICT TIME!");
+            Console.WriteLine("Let's fix this page up");
         }
     }
 }
