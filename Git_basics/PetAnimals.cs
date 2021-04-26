@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Git_basics
 {
-    class Pets
+    class PetAnimals
     {
         public bool HasFur { get; set; }
 
