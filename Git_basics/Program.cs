@@ -6,9 +6,9 @@ namespace Git_basics
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("this project is for testing git commands");
-            Console.WriteLine("");
+            Console.WriteLine("Hello and Welcome to my project!");
+            Console.WriteLine("This project is for testing git commands");
+            Console.WriteLine("So glad you are here");
         }
     }
 }
