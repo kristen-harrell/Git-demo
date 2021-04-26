@@ -7,8 +7,11 @@ namespace Git_basics
         static void Main(string[] args)
         {
             int x = 4 * 4;
-            Console.WriteLine("This project will show off how to use git commands");
-            Console.WriteLine("So glad you are here");
+            Console.WriteLine("Please tell me your name:");
+            string userName = Console.ReadLine();
+
+            Console.WriteLine($"Is your favorite number {x}?");
+           
         }
     }
 }
