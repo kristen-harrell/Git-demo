@@ -4,11 +4,9 @@ using System.Text;
 
 namespace Git_basics
 {
-    class Pet
+    class Pets
     {
-        public bool HasFur { get; set; }
-        public string FirstName { get; set; }
-        public int AnimalId { get; set; }
-        public string PetSpecies { get; set; }
+        public string Name { get; set; }
+        public string Species { get; set; }
     }
 }

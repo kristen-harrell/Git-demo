@@ -6,12 +6,9 @@ namespace Git_basics
     {
         static void Main(string[] args)
         {
-            int x = 4 * 4;
-            Console.WriteLine("Please tell me your name:");
-            string userName = Console.ReadLine();
-
-            Console.WriteLine($"Is your favorite number {x}?");
-           
+            Console.WriteLine("Hello and Welcome to my project!");
+            Console.WriteLine("This project is for testing git commands");
+            Console.WriteLine("So glad you are here");
         }
     }
 }
