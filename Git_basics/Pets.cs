@@ -6,5 +6,10 @@ namespace Git_basics
 {
     class Pets
     {
-        
+        public bool HasFur { get; set; }
+
+        public string FirstName { get; set; }
+        public int AnimalId { get; set; }
+        public string PetSpecies { get; set; }
+    }
 }
